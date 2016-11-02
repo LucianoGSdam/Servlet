@@ -1,7 +1,7 @@
 <%-- 
     Document   : newjsp
     Created on : 26-oct-2016, 15:30:59
-    Author     : sergi
+    Author     : luciano
 --%>
 <%@page import="java.sql.ResultSet"%>
 <%@page contentType="text/html" pageEncoding="UTF-8"%>
